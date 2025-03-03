@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<ctype.h>
 #include<stdlib.h>
-#include"../include/take_input.h"
+#include"take_input.h"
 
 
 char take_input_operator(bool* exit_flag) {

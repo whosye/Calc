@@ -1,6 +1,6 @@
 #include<stdio.h>
-#include"../include/take_input.h"
-#include"../include/get_result.h"
+#include"take_input.h"
+#include"get_result.h"
 #include <stdlib.h>
 
 int main()

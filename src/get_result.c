@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"../include/get_result.h"
+#include"get_result.h"
 
 
 
